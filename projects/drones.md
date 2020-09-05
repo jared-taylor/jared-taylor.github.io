@@ -3,14 +3,14 @@ layout: project
 type: project
 image: images/drone.jpeg
 title: ArduPilot Research
-permalink: projects/vacay
+permalink: projects/drones
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Drones
+  - ArduPilot
+  - Python
+  - Wireshark
 summary: A research project on drone communication and developement.
 ---
 
