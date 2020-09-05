@@ -8,7 +8,7 @@ labels:
   - Temporary
 ---
 
-<img class="ui medium center spaced image" src="https://www.krudoknives.com/wp-content/uploads/2018/10/How-to-Build-Your-Own-Forge.jpg">
+<img class="ui medium center floating image" src="https://www.krudoknives.com/wp-content/uploads/2018/10/How-to-Build-Your-Own-Forge.jpg">
 
 ## Creating something new
 
@@ -21,4 +21,5 @@ Everything I have experienced in the process of learning various coding language
 ## Goals
 
 Another benefit I feel comes from the new approach I'm taking to software engineering is the idea that I can set specific goals for my training like I do for training for fitness. I have started to think about short term goals, like being able to complete projects in a specific amount of time, and long term goals, like thinking of a project I could create in the future that will require me to use all the new skills I am learning. It might be something fun like writing code for games, or it could be something challenging that addresses a real-world issue. I have already made a commitment to work for the federal government after I complete my college degree, and I hope that I encounter challenges that might direct me on a path to realizing those goals. And if that does not end up being the case, I hope I can retain my goals and push myself along that path. Perhaps I will someday be able to create something that does in fact change the world.
-<img class="ui medium center spaced image" src="https://www.monzo.com/static/images/blog/2018-07-10-making-quarterly-goals-public/q3-goals-blog.png">
+
+<img class="ui medium right floating image" src="https://www.monzo.com/static/images/blog/2018-07-10-making-quarterly-goals-public/q3-goals-blog.png">
