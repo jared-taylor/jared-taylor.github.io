@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "",
         "url": "http://linkedin.com/in/jared-taylor-9337141b5/"
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -103,9 +93,6 @@
         "I'm just the best at what I do"
       ]
     },
-  ],
-  "volunteer":[],
-  "awards": [
   ],
   "references": [
     {
