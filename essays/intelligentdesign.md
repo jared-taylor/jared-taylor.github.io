@@ -16,4 +16,4 @@ The number one idea I associate with Software Development is writing code. I thi
 
 Here is a simple example to show how this could be implemented:
 
-<img class="ui medium center floating image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/1920px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg">
+<img class="ui medium left floated image" src="../images/dpexample.JPG">
