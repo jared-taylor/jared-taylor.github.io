@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Cutting Edge
+title: Intelligent Design
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-03
 labels:
