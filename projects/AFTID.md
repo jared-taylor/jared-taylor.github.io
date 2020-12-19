@@ -13,6 +13,9 @@ labels:
 summary: An online repository for air fryer recipes.
 ---
 
+
+<img class="ui medium center image" src="../images/homepage.JPG">
+
 ## Why Air Fry?
 
 When I first heard of an air fryer, I instantly knew it was something I wanted. Being able to fry food without the mess and calories of frying it in oil, while maintaining the wonderful crispiness sounded too good to be true. And when I finally bought one, I was elated to find that it was not. I am a huge fan of air fryers, so I was excited to create an application that could be used by a newcomer to use one of their own to its potential.
@@ -34,6 +37,8 @@ After these components were done, we created a page to add user recipes. While t
 Of course, we also had to create the default data sets with all the recipe and ingredient information. This was probably the most time-consuming task, as every recipe required a list of ingredients and associated quantities, as well as instructions. Each ingredient also required detailed nutritional information. Both recipes and ingredients also had images for the clickable cards, which took time to find.
 
 In the end, we had to cut some of the features we originally wanted to implement. However, we did produce the list of recipes, ingredients, inventory, and vendors. 
+
+<img class="ui medium center image" src="../images/recipes.JPG">
 
 ## Future
 
